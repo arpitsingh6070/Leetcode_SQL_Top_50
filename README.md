@@ -5,4 +5,5 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/0197-rising-temperature) |
+| [1661-average-time-of-process-per-machine](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
