@@ -1,0 +1,1 @@
+select t.class from courses as t group by t.class having count(distinct(t.student)) >= 5
