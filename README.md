@@ -23,6 +23,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1280-students-and-examinations) |
+| [1527-patients-with-a-condition](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/arpitsingh6070/Leetcode_SQL_Top_50/tree/master/1667-fix-names-in-a-table) |
