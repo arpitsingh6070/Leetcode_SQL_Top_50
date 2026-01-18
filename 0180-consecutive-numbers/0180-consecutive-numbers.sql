@@ -1,11 +1,7 @@
+select distinct l1.num as ConsecutiveNums
+from Logs l1, Logs l2, Logs l3
+where l1.id=l2.id-1 and l2.id=l3.id-1
+and l1.num=l2.num and l2.num=l3.num
 
 
-SELECT DISTINCT
-    L1.num AS ConsecutiveNums
-FROM
-    Logs L1
-JOIN
-    Logs L2 ON L1.id = L2.id - 1 AND L1.num = L2.num
-JOIN
-    Logs L3 ON L2.id = L3.id - 1 AND L2.num = L3.num;
 
